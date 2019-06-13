@@ -3,7 +3,7 @@
 my new project
 
 This project is a seed for creating [Spring Boot][boot] [REST][rest]
-service projects.
+service projects....
 
 [boot]: https://projects.spring.io/spring-boot/ (Spring Boot)
 [rest]: https://en.wikipedia.org/wiki/Representational_state_transfer (REST)
